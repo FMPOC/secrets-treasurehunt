@@ -10,6 +10,7 @@ public class ClueGenerator {
     private List<String> mapRows = new ArrayList<>();
     
     public ClueGenerator() {
+        int foo = 0;
 
         //the map without scales shown
        mapRows.add(" |~ ~~ ~~~ ~ ~ ~~~ ~ _____.----------._ ~~~  ~~~~ ~~   ~~  ~~~~~ ~~~~|");
